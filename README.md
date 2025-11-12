@@ -11,7 +11,7 @@ User authentication system with login and signup functionality.
 Clean and modern user interface.
 Installation Instructions
 Clone the repository:
-git clone https://github.com/shozabali06/Imagify.git
+git clone https://github.com/aryan2101-bit/Imagify.git
 Navigate to the project directory:
 cd Imagify
 Server Setup
@@ -52,3 +52,4 @@ JWT_SECRET: Secret key for JSON Web Token.
 CLIPDROP_API: API key for the Clipdrop API.
 Client Folder
 VITE_BACKEND_URL: URL of the server application.
+
